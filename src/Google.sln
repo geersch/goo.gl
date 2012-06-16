@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csproj", "{3570D1E9-6343-4E03-AEDE-38421F4E637D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkTextBoxControl", "WatermarkTextBoxControl\WatermarkTextBoxControl.csproj", "{09F13B2C-EF05-4530-9815-B05DB815B395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGeers.Google", "CGeers.Google\CGeers.Google.csproj", "{86DFD88E-2611-4A9D-96CA-CAE6D0BE8AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGeers.Web", "CGeers.Web\CGeers.Web.csproj", "{B53484F2-C8F7-4E3D-9506-F87E718A635E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3570D1E9-6343-4E03-AEDE-38421F4E637D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3570D1E9-6343-4E03-AEDE-38421F4E637D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3570D1E9-6343-4E03-AEDE-38421F4E637D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3570D1E9-6343-4E03-AEDE-38421F4E637D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3570D1E9-6343-4E03-AEDE-38421F4E637D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3570D1E9-6343-4E03-AEDE-38421F4E637D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{09F13B2C-EF05-4530-9815-B05DB815B395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F13B2C-EF05-4530-9815-B05DB815B395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F13B2C-EF05-4530-9815-B05DB815B395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F13B2C-EF05-4530-9815-B05DB815B395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DFD88E-2611-4A9D-96CA-CAE6D0BE8AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DFD88E-2611-4A9D-96CA-CAE6D0BE8AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DFD88E-2611-4A9D-96CA-CAE6D0BE8AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DFD88E-2611-4A9D-96CA-CAE6D0BE8AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53484F2-C8F7-4E3D-9506-F87E718A635E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53484F2-C8F7-4E3D-9506-F87E718A635E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53484F2-C8F7-4E3D-9506-F87E718A635E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53484F2-C8F7-4E3D-9506-F87E718A635E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
